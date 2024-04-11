@@ -1730,7 +1730,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ac585a12efa14a4485a81d0d79663b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gold: 50
+  gold: 100
   winCondition: 1000
   planet: {fileID: 1292777465}
   isPlaying: 1
